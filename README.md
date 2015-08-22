@@ -3,7 +3,7 @@ Every source code will be push, commit and understand in here.
 <hr>
 <h5>// COMMIT DESCRIPTION</h5>
 Commit form: CODE.REFTIME.FILENAME.DESCRIPTION<br>
-Example: DB.2056.L99.ADD TESTCASE
+Example: DB.L99.ADD TESTCASE
 <br>
 <h5>// CODE SIGNATURE</h5>
   FT: First time to push source.code to git.<br>
